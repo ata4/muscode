@@ -7,7 +7,7 @@
  **    May you find forgiveness for yourself and forgive others.
  **    May you share freely, never taking more than you give.
  */
-package info.ata4.minecraft.muscode;
+package info.ata4.minecraft.muscode.io;
 
 import java.io.FilterOutputStream;
 import java.io.IOException;
